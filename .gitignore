@@ -13,3 +13,5 @@
 .xcopyignore
 jsconfig.json
 *_private.json
+firebase-debug.1.log
+.firebase/hosting..cache
