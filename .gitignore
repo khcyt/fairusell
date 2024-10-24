@@ -5,6 +5,7 @@
 **/jpeggeri.dat
 **/*.bat
 *.cls
+.vscode/*
 /bas/
 *.ascii_cert
 *.ascii_pem
@@ -15,3 +16,5 @@ jsconfig.json
 *_private.json
 firebase-debug.1.log
 .firebase/hosting..cache
+.space
+
