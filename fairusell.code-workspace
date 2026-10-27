@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../web"
+		}
+	],
+	"settings": {
+		"js/ts.implicitProjectConfig.target": "ESNext"
+	}
+}
